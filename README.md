@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Salah Mathlouthi and I'm a Full-Stack Web & Mobile Developer, from Tunisia.</h2>
+<h2 align="left">Hi 👋! My name is Salah Mathlouthi, I'm a Full-Stack Web & Mobile Developer, from Tunisia.</h2>
 
 ###
 
